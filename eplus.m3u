@@ -1,43 +1,91 @@
 #EXTM3U
 
-#EXTINF-1,Mr Teacher 01
+#EXTINF:-1 group-title="Chaska" tvg-logo="https://imglink.cc/cdn/1odcoUSddZ.jpg.png", Chaska Episode 1
+https://cdn.azmaal.com/PrimeShots/Chaska/Chaska%20Episode%201.mp4
+#EXTINF:-1 group-title="Chaska" tvg-logo="https://imglink.cc/cdn/1odcoUSddZ.jpg.png", Chaska Episode 2
+https://cdn.azmaal.com/PrimeShots/Chaska/Chaska%20Episode%202.mp4
+#EXTINF:-1 group-title="Chaska" tvg-logo="https://imglink.cc/cdn/1odcoUSddZ.jpg.png", Chaska Episode 3
+https://cdn.azmaal.com/PrimeShots/Chaska/Chaska%20Episode%203.mp4
+#EXTINF:-1 group-title="Chaska" tvg-logo="https://imglink.cc/cdn/1odcoUSddZ.jpg.png", Chaska Episode 4
+https://cdn.azmaal.com/PrimeShots/Chaska/Chaska%20Episode%204.mp4
+#EXTINF:-1 group-title="Chaska" tvg-logo="https://imglink.cc/cdn/1odcoUSddZ.jpg.png", Chaska Episode 5
+https://cdn.azmaal.com/PrimeShots/Chaska/Chaska%20Episode%205.mp4
+
+
+#EXTINF:-1 group-title="KaroNaa" tvg-logo="https://imglink.cc/cdn/i67727PRhV.png", KaroNaa Episode 1
+https://cdn.azmaal.com/PrimePlay/KaroNaa/KaroNaa%20Episode%201.mp4
+#EXTINF:-1 group-title="KaroNaa" tvg-logo="https://imglink.cc/cdn/i67727PRhV.png", KaroNaa Episode 2
+https://cdn.azmaal.com/PrimePlay/KaroNaa/KaroNaa%20Episode%202.mp4
+#EXTINF:-1 group-title="KaroNaa" tvg-logo="https://imglink.cc/cdn/i67727PRhV.png", KaroNaa Episode 3
+https://cdn.azmaal.com/PrimePlay/KaroNaa/KaroNaa%20Episode%203.mp4
+#EXTINF:-1 group-title="KaroNaa" tvg-logo="https://imglink.cc/cdn/i67727PRhV.png", KaroNaa Episode 4
+https://cdn.azmaal.com/PrimePlay/KaroNaa/KaroNaa%20Episode%204.mp4
+#EXTINF:-1 group-title="KaroNaa" tvg-logo="https://imglink.cc/cdn/i67727PRhV.png", KaroNaa Episode 5
+https://cdn.azmaal.com/PrimePlay/KaroNaa/KaroNaa%20Episode%205.mp4
+
+
+#EXTINF:-1 group-title="Juaa" tvg-logo="https://imglink.cc/cdn/uco-exZf1X.jpg", Juaa Episode 1
+https://cdn.azmaal.com/PrimePlay/Juaa/Juaa%20Episode%201.mp4
+#EXTINF:-1 group-title="Juaa" tvg-logo="https://imglink.cc/cdn/uco-exZf1X.jpg", Juaa Episode 2
+https://cdn.azmaal.com/PrimePlay/Juaa/Juaa%20Episode%202.mp4
+#EXTINF:-1 group-title="Juaa" tvg-logo="https://imglink.cc/cdn/uco-exZf1X.jpg", Juaa Episode 3
+https://cdn.azmaal.com/PrimePlay/Juaa/Juaa%20Episode%203.mp4
+#EXTINF:-1 group-title="Juaa" tvg-logo="https://imglink.cc/cdn/uco-exZf1X.jpg", Juaa Episode 4
+https://cdn.azmaal.com/PrimePlay/Juaa/Juaa%20Episode%204.mp4
+#EXTINF:-1 group-title="Juaa" tvg-logo="https://imglink.cc/cdn/uco-exZf1X.jpg", Juaa Episode 5
+https://cdn.azmaal.com/PrimePlay/Juaa/Juaa%20Episode%205.mp4
+#EXTINF:-1 group-title="Juaa" tvg-logo="https://imglink.cc/cdn/uco-exZf1X.jpg", Juaa Episode 6
+https://cdn.azmaal.com/PrimePlay/Juaa/Juaa%20Episode%206.mp4
+#EXTINF:-1 group-title="Juaa" tvg-logo="https://imglink.cc/cdn/uco-exZf1X.jpg", Juaa Episode 7
+https://cdn.azmaal.com/PrimePlay/Juaa/Juaa%20Episode%207.mp4
+
+#EXTINF:-1 group-title="Chachi No. 1" tvg-logo="https://imglink.cc/cdn/1lcXFue938.jpg", Chachi No. 1 Episode 1
+https://cdn.azmaal.com/ULLU/Chachi%20No%201/Chachi%20No%201%20Episode%201.mp4
+#EXTINF:-1 group-title="Chachi No. 1" tvg-logo="https://imglink.cc/cdn/1lcXFue938.jpg", Chachi No. 1 Episode 2
+https://cdn.azmaal.com/ULLU/Chachi%20No%201/Chachi%20No%201%20Episode%202.mp4
+#EXTINF:-1 group-title="Chachi No. 1" tvg-logo="https://imglink.cc/cdn/1lcXFue938.jpg", Chachi No. 1 Episode 3
+https://cdn.azmaal.com/ULLU/Chachi%20No%201/Chachi%20No%201%20Episode%203.mp4
+#EXTINF:-1 group-title="Chachi No. 1" tvg-logo="https://imglink.cc/cdn/1lcXFue938.jpg", Chachi No. 1 Episode 4
+https://cdn.azmaal.com/ULLU/Chachi%20No%201/Chachi%20No%201%20Episode%204.mp4
+
+
+
+#EXTINF:-1 group-title="Mr Teacher" tvg-logo="https://imglink.cc/cdn/1lcXFue938.jpg", Mr Teacher 01
 httpscdn.azmaal.comPrimeShotsMr%20TeacherMr%20Teacher%20Episode%201.mp4
-#EXTINF-1,Mr Teacher 02
+#EXTINF:-1 group-title="Mr Teacher" tvg-logo="https://imglink.cc/cdn/1lcXFue938.jpg", Mr Teacher 02
 httpscdn.azmaal.comPrimeShotsMr%20TeacherMr%20Teacher%20Episode%202.mp4
-#EXTINF-1,Mr Teacher 03
+#EXTINF:-1 group-title="Mr Teacher" tvg-logo="https://imglink.cc/cdn/1lcXFue938.jpg", Mr Teacher 03
 httpscdn.azmaal.comPrimeShotsMr%20TeacherMr%20Teacher%20Episode%203.mp4
-#EXTINF-1,Mr Teacher 04
+#EXTINF:-1 group-title="Mr Teacher" tvg-logo="https://imglink.cc/cdn/1lcXFue938.jpg", Mr Teacher 04
 httpscdn.azmaal.comPrimeShotsMr%20TeacherMr%20Teacher%20Episode%204.mp4
-#EXTINF-1,Mr Teacher 05
+#EXTINF:-1 group-title="Mr Teacher" tvg-logo="https://imglink.cc/cdn/1lcXFue938.jpg", Mr Teacher 05
 httpscdn.azmaal.comPrimeShotsMr%20TeacherMr%20Teacher%20Episode%205.mp4
 
-#EXTINF-1,Dream Girl Episode 1
+#EXTINF:-1 group-title="Dream Girl" tvg-logo="https://imglink.cc/cdn/X6gXq1_D0W.jpg", Dream Girl Episode 1
 httpscdn.azmaal.comULLUDream%20GirlDream%20Girl%20Episode%201.mp4
-#EXTINF-1,Dream Girl Episode 2
+#EXTINF:-1 group-title="Dream Girl" tvg-logo="https://imglink.cc/cdn/X6gXq1_D0W.jpg", Dream Girl Episode 2
 httpscdn.azmaal.comULLUDream%20GirlDream%20Girl%20Episode%202.mp4
-#EXTINF-1,Dream Girl Episode 3
+#EXTINF:-1 group-title="Dream Girl" tvg-logo="https://imglink.cc/cdn/X6gXq1_D0W.jpg", Dream Girl Episode 3
 httpscdn.azmaal.comULLUDream%20GirlDream%20Girl%20Episode%203.mp4
-#EXTINF-1,Dream Girl Episode 4
+#EXTINF:-1 group-title="Dream Girl" tvg-logo="https://imglink.cc/cdn/X6gXq1_D0W.jpg", Dream Girl Episode 4
 httpscdn.azmaal.comULLUDream%20GirlDream%20Girl%20Episode%204.mp4
-#EXTINF-1,Dream Girl Episode 5
+#EXTINF:-1 group-title="Dream Girl" tvg-logo="https://imglink.cc/cdn/X6gXq1_D0W.jpg", Dream Girl Episode 5
 httpscdn.azmaal.comULLUDream%20GirlDream%20Girl%20Episode%205.mp4
-#EXTINF-1,Dream Girl Episode 6
+#EXTINF:-1 group-title="Dream Girl" tvg-logo="https://imglink.cc/cdn/X6gXq1_D0W.jpg", Dream Girl Episode 6
 httpscdn.azmaal.comULLUDream%20GirlDream%20Girl%20Episode%206.mp4
 
-
-#EXTINF-1,Yes Sir Episode 01
+#EXTINF:-1 group-title="Yes Sir" tvg-logo="https://imglink.cc/cdn/pBJWdzHPiy.png", Yes Sir Episode 01
 httpscdn.azmaal.comBulBul%20PlayYes%20SirYes%20Sir%20Episode%201.mp4
-#EXTINF-1,Yes Sir Episode 02
+#EXTINF:-1 group-title="Yes Sir" tvg-logo="https://imglink.cc/cdn/pBJWdzHPiy.png", Yes Sir Episode 02
 httpscdn.azmaal.comBulBul%20PlayYes%20SirYes%20Sir%20Episode%202.mp4
-#EXTINF-1,Yes Sir Episode 03
+#EXTINF:-1 group-title="Yes Sir" tvg-logo="https://imglink.cc/cdn/pBJWdzHPiy.png", Yes Sir Episode 03
 httpscdn.azmaal.comBulBul%20PlayYes%20SirYes%20Sir%20Episode%203.mp4
 
-
-#EXTINF-1,Tenant Episode 01
+#EXTINF:-1 group-title="Tenant" tvg-logo="https://imglink.cc/cdn/456RjMkH4W.png", Tenant Episode 01
 httpscdn.azmaal.comMakhanTenantTenant%20Episode%201.mp4
-#EXTINF-1,Tenant Episode 02
+#EXTINF:-1 group-title="Tenant" tvg-logo="https://imglink.cc/cdn/456RjMkH4W.png", Tenant Episode 02
 httpscdn.azmaal.comMakhanTenantTenant%20Episode%202.mp4
-#EXTINF-1,Tenant Episode 03
+#EXTINF:-1 group-title="Tenant" tvg-logo="https://imglink.cc/cdn/456RjMkH4W.png", Tenant Episode 03
 httpscdn.azmaal.comMakhanTenantTenant%20Episode%203.mp4
-#EXTINF-1,Tenant Episode 04
+#EXTINF:-1 group-title="Tenant" tvg-logo="https://imglink.cc/cdn/456RjMkH4W.png", Tenant Episode 04
 httpscdn.azmaal.comMakhanTenantTenant%20Episode%204.mp4
