@@ -164,21 +164,21 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/IJzkIlAXRi.png", ZEE-Bangla - Digi
 http://172.18.18.18/hls/tv1.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", SonyAtth - NID
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/sxTGA4mrpB.jpg", SonyAtth - NID
 http://172.19.17.230:8090/hls/SonyAtth.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", SonyAtth - ottp
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/sxTGA4mrpB.jpg", SonyAtth - ottp
 https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", StarJalshaHD - NID
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/of9GOWh1CK.png", StarJalshaHD - NID
 http://172.19.17.230:8090/hls/StarJalshaHD.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/oNz6xoIas8.png", Colorsbanglahd - INT
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8  
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", SonyHD - NID
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/o1GGdmEdup.jpg", SonyHD - NID
 http://172.19.17.230:8090/hls/SonyHD.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", SonySD - ottp
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/o1GGdmEdup.jpg", SonySD - ottp
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", ColorsHD - NID
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/WERsxB718c.jpg", ColorsHD - NID
 http://172.19.17.230:8090/hls/ColorsHD.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", StarPlusHD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/YzX4LEYKFa.png", StarPlusHD
 http://172.19.17.230:8090/hls/StarPlusHD.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/zu1PoTSys4.png", CHANNEL 1 - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
