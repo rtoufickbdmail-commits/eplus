@@ -15,15 +15,15 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RV4J8YS1A5.jpg", MahsunSports - INT
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd - NID
-http://172.19.17.230:8090/hls/tsportshd.m3u8
+http://172.19.17.202:8090/hls/tsportshd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTVNationalHD - NID
-http://172.19.17.230:8090/hls/BTVNationalHD.m3u8
+http://172.19.17.202:8090/hls/BTVNationalHD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/V0PWZwt59s.jpg", StarSportsSelect1HD - NID
-http://172.19.17.230:8090/hls/StarSportsSelect1HD.m3u8
+http://172.19.17.202:8090/hls/StarSportsSelect1HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/dDc26Wf069.jpg", StarSportsSelect2HD - NID
-http://172.19.17.230:8090/hls/StarSportsSelect2HD.m3u8
+http://172.19.17.202:8090/hls/StarSportsSelect2HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/k_Bcc2fWyc.png", StarSports2HD - NID
-http://172.19.17.230:8090/hls/StarSports2HD.m3u8
+http://172.19.17.202:8090/hls/StarSports2HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_he_1uYtIs.png", crazy_ex - AKA
 https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/e3ZPZe3VKJ.png", Sportslegends - AKA
@@ -53,17 +53,17 @@ http://10.100.100.100:8081/hls/2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/akpmqDSuvW.png", SONY-SPORTS-1-10.100
 http://10.100.100.100:8081/hls/3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/PW1_kpPhbL.jpg", SonyTen5HD - NID
-http://172.19.17.230:8090/hls/SonyTen5HD.m3u8
+http://172.19.17.202:8090/hls/SonyTen5HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/vIotlzMh33.png", SonyTen2hd - NID
-http://172.19.17.230:8090/hls/SonyTen2hd.m3u8
+http://172.19.17.202:8090/hls/SonyTen2hd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd3rd - NID
-http://172.19.17.230:8090/hls/tsportshd3rd.m3u8
+http://172.19.17.202:8090/hls/tsportshd3rd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/JkEHEvFSCE.png", Somoytv - NID
-http://172.19.17.230:8090/hls/somoytv.m3u8
+http://172.19.17.202:8090/hls/somoytv.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/exlnCtVS8a.png", ASportsHD - NID
-http://172.19.17.230:8090/hls/ASportsHD.m3u8
+http://172.19.17.202:8090/hls/ASportsHD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/zoRz80KOzW.png", BeinSports1ENG - NID
-http://172.19.17.230:8090/hls/BeinSports1ENG.m3u8
+http://172.19.17.202:8090/hls/BeinSports1ENG.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSports - bdix
 https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8
 
@@ -108,9 +108,9 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/C9Ycw_SlBV.jpg", zoomoonz - INT
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/OlLz_iuMcQ.jpg", DiscoveryKids  - NID
-http://172.19.17.230:8090/hls/DiscoveryKids.m3u8
+http://172.19.17.202:8090/hls/DiscoveryKids.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/NmGDgFQ4M8.png", CartoonNetworkHD - NID
-http://172.19.17.230:8090/hls/CartoonNetworkHD.m3u8
+http://172.19.17.202:8090/hls/CartoonNetworkHD.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/NmGDgFQ4M8.png", CartoonNetworkHD - ottp
 https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/Hf4HNocggU.png", toon goggles - INT
@@ -149,11 +149,11 @@ https://ftp.assadikb.workers.dev/stream.m3u8?id=independent_tv
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/g2-FyJRhI5.png", AL JAZEERA - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/1721.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", ALjazeeraNews - NID
-http://172.19.17.230:8090/hls/ALjazeeraNews.m3u8
+http://172.19.17.202:8090/hls/ALjazeeraNews.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", bbc_world - NID
-http://172.19.17.230:8090/hls/bbc_world.m3u8
+http://172.19.17.202:8090/hls/bbc_world.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/j5j7hs6aLj.jpg", PTV NEWS - NID
-http://172.19.17.230:8090/hls/ptvsportshd.m3u8
+http://172.19.17.202:8090/hls/ptvsportshd.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/HkLi5YsMoQ.jpg", Press TV Iran - INT
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/wcVFXNkEei.png", Iran International(EN) - INT
@@ -170,21 +170,21 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/IJzkIlAXRi.png", ZEE-Bangla - Digi
 http://172.18.18.18/hls/tv1.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/sxTGA4mrpB.jpg", SonyAtth - NID
-http://172.19.17.230:8090/hls/SonyAtth.m3u8
+http://172.19.17.202:8090/hls/SonyAtth.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/sxTGA4mrpB.jpg", SonyAtth - ottp
 https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/of9GOWh1CK.png", StarJalshaHD - NID
-http://172.19.17.230:8090/hls/StarJalshaHD.m3u8
+http://172.19.17.202:8090/hls/StarJalshaHD.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/oNz6xoIas8.png", Colorsbanglahd - INT
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8  
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/o1GGdmEdup.jpg", SonyHD - NID
-http://172.19.17.230:8090/hls/SonyHD.m3u8
+http://172.19.17.202:8090/hls/SonyHD.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/o1GGdmEdup.jpg", SonySD - ottp
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/WERsxB718c.jpg", ColorsHD - NID
-http://172.19.17.230:8090/hls/ColorsHD.m3u8
+http://172.19.17.202:8090/hls/ColorsHD.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/YzX4LEYKFa.png", StarPlusHD
-http://172.19.17.230:8090/hls/StarPlusHD.m3u8
+http://172.19.17.202:8090/hls/StarPlusHD.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/zu1PoTSys4.png", CHANNEL 1 - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
@@ -220,19 +220,19 @@ http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/126098
 
 =================MOVIES=================
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/CeEmqLMjuw.jpg", JalshaMoviesHD - NID
-http://172.19.17.230:8090/hls/JalshaMoviesHD.m3u8
+http://172.19.17.202:8090/hls/JalshaMoviesHD.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/WTsGoBz4tI.jpg", Sananda TV- NID
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/3SYaMvb4e3.png", HBO-Hits - Digi
 http://172.18.18.18/hls/tv4.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/FzXrxCs642.png", sonymaxhd - NID
-http://172.19.17.230:8090/hls/sonymaxhd.m3u8
+http://172.19.17.202:8090/hls/sonymaxhd.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/HCsCaBI2yU.jpg", sonymax2 - ottp
 https://stream.ottplus.bd/live/max_2_abr/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/D7a9byM75d.jpg", StarMoviesHD - NID
-http://172.19.17.230:8090/hls/StarMoviesHD.m3u8
+http://172.19.17.202:8090/hls/StarMoviesHD.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/QjLdCqxaMA.png", AndPictureHD - NID
-http://172.19.17.230:8090/hls/AndPictureHD.m3u8
+http://172.19.17.202:8090/hls/AndPictureHD.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/8F77qdotji.png", Cineedge - AKA
 https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/d4nO5uqyGl.jpg", Originals - AKA
@@ -249,16 +249,18 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-actionhollywood-samsungnz/cb573d1e786c678f9bd43d6fcef04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7abb20e13db64a9e50149c32643fa83439fd501b2868153834bd725a4179f97f78fd242d7e4ef598d6f77a02022405fbdc213b1c853b1d69b6d3c8f795a297437c790e335caa1e43d277debf6cac505b5739cc84d290146e935c8054de3dd4bd31b4d0fca325a8dff082b18b7cd5a2e03a8e4ab8bc1f852d769d6adf3d47f7098b94136178925ef2b253c9fead854aaf755c7e66dd5ef292a31cec711c0ddaad5bbf9cd6b8c35c6c2c39d3f6947774b57d50aecc93b9b61f6509ce33f6d1c414da69f15e383da553f2b0fa5884cdb1e1ef68adfd6915e759a2e4b1adb61df5a176583613f2bab7eafe84906e311038b3132ec4b75d1128edf02c1e78ab5486bcf9dad24d860e0b206d78c728a652e560fb6b2611f724573d4e1711e721ee740f7d8deee670362b8a32d9f47b68daa5fc98681f5dd40f0651566967c26921b36/44/1280x720_2657600/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/fnmN6TrksZ.png", rongeentv - INT
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="", Hindimovies - Ayna
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/bsDkNYw-Cs.png", Hindimovies - Ayna
 https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/C3x0w1qq-3.png", Mytime movie network - INT
+https://mytime-tcl.amagi.tv/playlist.m3u8
 
 
 
 =================INFOTAINMENT=================
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/2ucQE8vHR9.png", NatGeoWild - NID
-http://172.19.17.230:8090/hls/NatGeoWild.m3u8
+http://172.19.17.202:8090/hls/NatGeoWild.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/kZHa_6S4TJ.jpg", DiscoveryHD - NID
-http://172.19.17.230:8090/hls/DiscoveryHD.m3u8
+http://172.19.17.202:8090/hls/DiscoveryHD.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/kZHa_6S4TJ.jpg", DiscoveryHD - ottp
 https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/Hv7edUWkP0.png", animal_planet - ottp
@@ -267,6 +269,8 @@ https://stream.ottplus.bd/live/animal_planet_hd_abr/live/animal_planet_hd/chunks
 https://stream.ottplus.bd/live/id_hd_abr/live/id_hd/chunks.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/FIiLuSzO7T.jpg", Sony bbc_earth_hd - ottp
 https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/ih72aH3ecL.png", Outdoor tv nz - INT
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", luckyfamily - AKA
 https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Delicious - AKA
@@ -295,11 +299,17 @@ http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 
 =================MUSIC=================
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/721_n9jvyf.png", SangeetBangla - NID
-http://172.19.17.230:8090/hls/SangeetBangla.m3u8
+http://172.19.17.202:8090/hls/SangeetBangla.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/721_n9jvyf.png", SangeetBangla - NID
+http://172.19.17.202:8090/hls/SangeetBangla.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/lzxKeyR9HE.png", BHI Channel - INT
 http://15.235.185.236/hls/bhi.m3u8 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/McxPaDO-P1.jpg", Zoom - INT
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/jVFH9B_pWF.jpg", 9xm - INT
+https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/jVFH9B_pWF.jpg", 9xm - NID
+http://172.19.17.202:8090/hls/9xm.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/BE1gdlPlcm.jpg", kidsstars - AKA
 https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/FQXpxoOtFr.png", partyuniverse - AKA
@@ -314,16 +324,15 @@ https://pmchls.wns.live/hls/stream.m3u8
 http://88.212.15.19/live/mb_hits/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/6Mf1HOhGad.jpeg", Sexy - INT
 http://88.212.15.19/live/mb_sexy/index.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/kwEB-VXsYK.jpg", VevoHipHopRB_GB - INT
+https://d7i20u8nlyf1b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lymqk2na77cwn/VevoHipHopRB_GB.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/CAguYsE6Sc.png", JOUKLA RBR - INT
 https://vdo.pro-fhi.net:3228/stream/play.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/qcupDMS9lZ.jpg", Topestrada - INT
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/QTrQx-zFU-.jpg", Happyradio - INT
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/jVFH9B_pWF.jpg", 9xm - INT
-https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/jVFH9B_pWF.jpg", 9xm - NID
-http://172.19.17.230:8090/hls/9xm.m3u8
+
 
 
 =================Radio Stream=================
