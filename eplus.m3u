@@ -88,6 +88,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://stream.ottplus.bd/live/islamic_tv/index.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/3vyfn2La5K.png", islamic_tv - INT
 https://ftp.assadikb.workers.dev/stream.m3u8?id=/islamic_tv
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/esVdaxKzgX.jpg", Channel S Islamic - INT
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 
 
 
@@ -119,6 +121,8 @@ https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
 https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/cDEv-rzvhR.jpg", Sony YAY - ottp
 https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/oCOWeBEMHc.jpg", Gopal Var TV- INT
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 
 
@@ -171,6 +175,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/IJzkIlAXRi.png", ZEE-Bangla - Digi
 http://172.18.18.18/hls/tv1.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/IJzkIlAXRi.png", ZEE-Bangla - INT
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/sxTGA4mrpB.jpg", SonyAtth - NID
 http://172.19.17.202:8090/hls/SonyAtth.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/sxTGA4mrpB.jpg", SonyAtth - ottp
@@ -208,14 +214,25 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/CCPTIw-daf.jpg", Desh tv - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/CCPTIw-daf.jpg", Ekhon tv - ottp
+https://book4u.top/worker/index.php?path=api/0456773b8a/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/xrUxU2kjxl.png", nexus_tv - ottp
+https://ftp.assadikb.workers.dev/stream.m3u8?id=nexus_tv
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/0d_yENP3dj.jpg", SRK-TV - AKA
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/WsLBIwxx24.jpg", Mohona TV - AKA
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/fd5M6j19Y3.png", G series Drama - Ayna
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/WxqKUuoZqj.jpg", Enterr10 Bangla - INT
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/QN_27CSo42.jpg", Rajdhani_tv - INT
+https://ftp.assadikb.workers.dev/stream.m3u8?id=/rajdhani_tv
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/l7xu3pXh0e.jpg", ME TV - INT
+https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/KSbRR2ppEK.png", Sun Bangla - INT
 http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/126098
+
 
 
 
@@ -372,7 +389,41 @@ http://172.22.22.22/data/disk-1/Movies/hollywood/2025/Jurassic%20World%20Rebirth
 http://172.22.22.22/data/disk-1/Movies/hollywood/2025/Thunderbolts%20(2025)/Thunderbolts%20(2025).mp4
 
 
-
+=================OTTPLUS BANGLA=================
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 1
+https://ftp.assadikb.workers.dev/stream.m3u8?id=/anandatv
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 2
+https://ftp.assadikb.workers.dev/stream.m3u8?id=/bangla_tv
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 3
+https://ftp.assadikb.workers.dev/stream.m3u8?id=jamuna_tv
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 4 
+https://ftp.assadikb.workers.dev/stream.m3u8?id=/bijoytv
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 5
+https://ftp.assadikb.workers.dev/stream.m3u8?id=/mohona_tv
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 6
+https://ftp.assadikb.workers.dev/stream.m3u8?id=desh_tv
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 7
+https://ftp.assadikb.workers.dev/stream.m3u8?id=/channel_i
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 8
+https://madanitv.assadikb.workers.dev/live.php?id=573&e=.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 9
+https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 10
+https://madanitv.assadikb.workers.dev/live.php?id=1345&e=.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 11
+https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 12
+https://madanitv.assadikb.workers.dev/live.php?id=815&e=.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 13
+https://madanitv.assadikb.workers.dev/live.php?id=545&e=.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 14
+https://madanitv.assadikb.workers.dev/live.php?id=587&e=.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 15
+https://madanitv.assadikb.workers.dev/live.php?id=1477&e=.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 16
+https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 17
+https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 
 
 
@@ -389,26 +440,26 @@ http://172.22.22.22/data/disk-1/Movies/hollywood/2025/Thunderbolts%20(2025)/Thun
 https://go.skym3u.top/bdio.m3u
 
 
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8   S Recoded
+ 
 https://live.cbntvusa.net/hls/cbntv/index.m3u8  CBN Tv USA
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8  deshitv24  USA
 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8 Green TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8 jonmovumi TV 
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8 Mohona TV
-https://iptvbd.live/metv1080/1080.m3u8
+
+
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8 NRB TV Canada
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8 Canada
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8  banglatv
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8 Enterr10 Bangla
+
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts  Star Jalsa 
-https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8   Zee Bangla
+
 
 
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8   bein-esp
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8    bein-esp
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8  Goal TV
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 http://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
 https://akdnetwork.co.in/live/cnnew/index.m3u8
@@ -438,25 +489,25 @@ http://starhub.pro/live/farhat-3379/67897-913379/748388.ts
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247   sony MAX
 https://book4u.top/worker/index.php?path=api/b45f637d05/playlist.m3u8   sony yah
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
-https://ftp.assadikb.workers.dev/stream.m3u8?id=/rajdhani_tv
+
 https://book4u.top/worker/index.php?path=api/63785f090e/playlist.m3u8  zee cinema
- 
-https://ftp.assadikb.workers.dev/stream.m3u8?id=/movie_bangla
-https://book4u.top/worker/index.php?path=api/0456773b8a/playlist.m3u8  ekhon tv
-https://ftp.assadikb.workers.dev/stream.m3u8?id=/anandatv
-https://ftp.assadikb.workers.dev/stream.m3u8?id=nexus_tv
-https://ftp.assadikb.workers.dev/stream.m3u8?id=/bangla_tv
-https://ftp.assadikb.workers.dev/stream.m3u8?id=jamuna_tv
+
+
+
+
+
+
+
+
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8  asian tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
-https://ftp.assadikb.workers.dev/stream.m3u8?id=/bijoytv
-https://ftp.assadikb.workers.dev/stream.m3u8?id=/mohona_tv
+
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
-https://ftp.assadikb.workers.dev/stream.m3u8?id=desh_tv
+
  
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
-https://ftp.assadikb.workers.dev/stream.m3u8?id=/channel_i
+
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8  DW TV
 https://is.gd/uRBzMk news 18
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8  Zee 24 Ghonta
@@ -465,12 +516,12 @@ https://book4u.top/worker/index.php?path=api/7e70626a3c/playlist.m3u8
 https://book4u.top/worker/index.php?path=api/3e9d231a84/playlist.m3u8
 https://book4u.top/worker/index.php?path=api/8ea645b228/playlist.m3u8
 https://book4u.top/worker/index.php?path=api/f10c3b5c0e/playlist.m3u8
-https://madanitv.assadikb.workers.dev/live.php?id=573&e=.m3u8
+
 https://book4u.top/worker/index.php?path=api/7077164c21/playlist.m3u8
 https://book4u.top/worker/index.php?path=api/5804d89e97/playlist.m3u8
 https://book4u.top/worker/index.php?path=api/5804d89e97/playlist.m3u8
 https://book4u.top/worker/index.php?path=api/bc508cf627/playlist.m3u8
-https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
+
 https://book4u.top/worker/index.php?path=api/c6a422650e/playlist.m3u8
 https://book4u.top/worker/index.php?path=api/fdf6e4d104/playlist.m3u8
 https://book4u.top/worker/index.php?path=api/ef22d71b0e/playlist.m3u8
@@ -479,12 +530,10 @@ https://book4u.top/worker/index.php?path=api/45dc1e0f41/playlist.m3u8
 https://book4u.top/worker/index.php?path=api/762cf859a8/playlist.m3u8
 
 #CARTOON
-https://madanitv.assadikb.workers.dev/live.php?id=1345&e=.m3u8  
-https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8
-https://madanitv.assadikb.workers.dev/live.php?id=815&e=.m3u8
+
 https://book4u.top/worker/index.php?path=api/d2586d604e/playlist.m3u8
 https://book4u.top/worker/index.php?path=api/aec911dc04/playlist.m3u8
-https://madanitv.assadikb.workers.dev/live.php?id=545&e=.m3u8
+
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -497,7 +546,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 
 #MUSIC
 
-https://madanitv.assadikb.workers.dev/live.php?id=587&e=.m3u8
+
 https://cdn-2.pishow.tv/live/226/master.m3u8
 https://book4u.top/worker/index.php?path=api/60fb3f6a8b/playlist.m3u8
 
@@ -521,7 +570,7 @@ https://book4u.top/worker/index.php?path=api/3547925ef0/playlist.m3u8
 https://book4u.top/worker/index.php?path=api/a5d2c9a383/playlist.m3u8
 https://book4u.top/worker/index.php?path=api/e4b503da70/playlist.m3u8
 https://book4u.top/worker/index.php?path=api/33d888b898/playlist.m3u8
-https://madanitv.assadikb.workers.dev/live.php?id=1477&e=.m3u8
+
 https://book4u.top/worker/index.php?path=api/9bcb965282/playlist.m3u8
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253
 https://book4u.top/worker/index.php?path=api/f914787389/playlist.m3u8
@@ -543,13 +592,13 @@ http://103.159.180.34:5001/live/165.m3u8  zee chenama
 
 #ENTERTAINMENT
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
+
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009259
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273
 https://book4u.top/worker/index.php?path=api/bff81131e7/playlist.m3u8
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
+
 http://103.159.180.34:5001/live/279.m3u8  COLORS RISTEY
 
 
