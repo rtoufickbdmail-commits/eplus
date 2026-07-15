@@ -214,10 +214,14 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/CCPTIw-daf.jpg", Desh tv - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/8jC1fEhl8d.jpg",  Asian tv - AKA
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/CCPTIw-daf.jpg", Ekhon tv - ottp
 https://book4u.top/worker/index.php?path=api/0456773b8a/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/xrUxU2kjxl.png", nexus_tv - ottp
 https://ftp.assadikb.workers.dev/stream.m3u8?id=nexus_tv
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/IKug5r0-p6.png", Boishakhitv - ottp
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/0d_yENP3dj.jpg", SRK-TV - AKA
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/WsLBIwxx24.jpg", Mohona TV - jago
@@ -386,7 +390,29 @@ http://172.22.22.22/data/disk-1/Movies/hollywood/2025/Jurassic%20World%20Rebirth
 http://172.22.22.22/data/disk-1/Movies/hollywood/2025/Thunderbolts%20(2025)/Thunderbolts%20(2025).mp4
 
 
-=================OTTPLUS BANGLA=================
+=================TEST=================
+#EXTINF:-1 group-title="Test" tvg-logo="", R.BANGLA - INT
+https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", DANGAl TV - INT
+https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", DANGAl TV - INT
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", Dangal 2 - INT
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", AJ TAK Hindi - INT
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", INDIA TV Hindi - INT
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NDTV English - INT
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 24
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", DW TV - INT
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 27
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+
 #EXTINF:-1 group-title="Test" tvg-logo="", NO Name 1
 https://ftp.assadikb.workers.dev/stream.m3u8?id=/anandatv
 #EXTINF:-1 group-title="Test" tvg-logo="", NO Name 2
@@ -422,26 +448,7 @@ https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="", NO Name 17
 https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 
-#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 18
-https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 19
-https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 20
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 21
-https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 22
-https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 23
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 24
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 25
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 26
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 27
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 
 
 
@@ -509,13 +516,12 @@ https://book4u.top/worker/index.php?path=api/63785f090e/playlist.m3u8  zee cinem
 
 
 
-https://mtlivestream.com/hls/asian/ytlive/index.m3u8  asian tv
+
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
 
  
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 
 
