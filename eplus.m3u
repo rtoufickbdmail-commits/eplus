@@ -220,18 +220,15 @@ https://book4u.top/worker/index.php?path=api/0456773b8a/playlist.m3u8
 https://ftp.assadikb.workers.dev/stream.m3u8?id=nexus_tv
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/0d_yENP3dj.jpg", SRK-TV - AKA
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/WsLBIwxx24.jpg", Mohona TV - AKA
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/WsLBIwxx24.jpg", Mohona TV - jago
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/fd5M6j19Y3.png", G series Drama - Ayna
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/WxqKUuoZqj.jpg", Enterr10 Bangla - INT
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/QN_27CSo42.jpg", Rajdhani_tv - INT
-https://ftp.assadikb.workers.dev/stream.m3u8?id=/rajdhani_tv
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/l7xu3pXh0e.jpg", ME TV - INT
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/KSbRR2ppEK.png", Sun Bangla - INT
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/126098
+
 
 
 
@@ -425,10 +422,26 @@ https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="", NO Name 17
 https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 
-
-
-
-
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 18
+https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 19
+https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 20
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 21
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 22
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 23
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 24
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 25
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 26
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="", NO Name 27
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 
 
@@ -464,19 +477,16 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 http://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
+
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
-https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+
 https://amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi-n5tuk.amagi.tv/playlist/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8
-https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
@@ -508,7 +518,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8  DW TV
+
 https://is.gd/uRBzMk news 18
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8  Zee 24 Ghonta
 https://book4u.top/worker/index.php?path=api/7b04dbc2ff/playlist.m3u8 CNN Live
@@ -597,7 +607,7 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009259
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273
 https://book4u.top/worker/index.php?path=api/bff81131e7/playlist.m3u8
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
 
 http://103.159.180.34:5001/live/279.m3u8  COLORS RISTEY
 
@@ -621,7 +631,7 @@ http://103.157.248.140:8000/play/a00i/index.m3u8
 
 #NEWS
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8  CNN
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8  DW
+
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8 FRANCE 24
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8 RT NOW
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8 SKW NEWS
